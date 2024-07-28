@@ -1,5 +1,6 @@
 # LilAntibot
-**The true anti bot**
+*The true anti bot*
+
 **LilAntibot** is an antibot fork of UltimateAntibotRecoded with more updates and better detections
 We aim to be the best antibot there is ranging from finding the bots to stopping the bots with no players being in the crossfire
 
